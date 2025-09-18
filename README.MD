@@ -9,4 +9,4 @@
 - Возможности
 
 ## Описание проекта
-Текст...
+Ссылка на проект: https://alexeyaleksandrov.github.io/my-project-05/src/index.html 
